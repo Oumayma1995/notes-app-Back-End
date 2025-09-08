@@ -1,0 +1,18 @@
+2025-09-02 12:26:43 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
+2025-09-02 12:26:46 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
+2025-09-02 12:28:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
+2025-09-02 12:29:41 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
+2025-09-02 12:29:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
+2025-09-02 12:33:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "NOTE" not found (this database is empty); SQL statement:
+select note0_.id as id1_0_0_, note0_.content as content2_0_0_, note0_.created_at as created_3_0_0_, note0_.title as title4_0_0_ from note note0_ where note0_.id=? [42104-214]
